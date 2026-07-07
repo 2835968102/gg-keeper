@@ -2,6 +2,12 @@
 
 一个极简的流量消耗工具，专为 Giffgaff SIM 卡保号设计。每次操作仅消耗约 120KB 流量，成本约 2-3 便士（0.2 元人民币）。
 
+部署地址：
+
+github:[Giffgaff 保号助手](https://pmssl.github.io/gg-keeper/)
+
+cloudflare:[Giffgaff 保号助手](https://ggkeeper.aimid.cc.cd/)
+
 ## 📋 功能特点
 
 - ✅ 精确控制流量消耗（约 120KB）
